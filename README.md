@@ -20,5 +20,5 @@ For Step By Step Guide Follow Video Tutorial:
 <br><br>
 
 Feel Free to copy the code and use it.<br><br>
-Don't forget to star the repo and like the video :)
+Don't forget to star the repo :)
 # Firebase-phone-auth
